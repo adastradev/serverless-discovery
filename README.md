@@ -10,7 +10,7 @@ Read more about the initial design [here](./design/design.md)
 ## Micro-service implementations
 * [serverless-discovery-service-aws](https://github.com/adastradev/serverless-discovery-service-aws) - AWS lambda implementation
 
-## serverless-discovery-sdk libraries
+## SDK libraries
 The Serverless Discovery SDK is designed to be language agnostic and currently has support for the following languages.
 Please contact us with suggestions for things you would like to see added to this list, or contribute a library for a new language directly.
 * [serverless-discovery-sdk-js](https://github.com/adastradev/serverless-discovery-sdk-js) - Typescript/Javascript
