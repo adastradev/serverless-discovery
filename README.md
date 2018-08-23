@@ -7,14 +7,14 @@ This is the home page for the Discovery Framework for a serverless architecture.
 
 Read more about the initial design [here](./design/design.md)
 
-## Supported micro-service implementations
-* [AWS - serverless-discovery-service-aws](https://github.com/adastradev/serverless-discovery-service-aws)
+## Micro-service implementations
+* [serverless-discovery-service-aws](https://github.com/adastradev/serverless-discovery-service-aws) - AWS lambda implementation
 
-## Supported serverless-discovery-sdk libraries
+## serverless-discovery-sdk libraries
 The Serverless Discovery SDK is designed to be language agnostic and currently has support for the following languages.
 Please contact us with suggestions for things you would like to see added to this list, or contribute a library for a new language directly.
-* [Typescript/Javascript](https://github.com/adastradev/serverless-discovery-sdk-js)
-* [Python](https://github.com/adastradev/serverless-discovery-sdk-python)
+* [serverless-discovery-sdk-js](https://github.com/adastradev/serverless-discovery-sdk-js) - Typescript/Javascript
+* [serverless-discovery-sdk-python](https://github.com/adastradev/serverless-discovery-sdk-python) - Python
 
 ## Supporting Tools
 * [serverless-discovery-plugin](https://github.com/aregier/serverless-discovery-plugin) - Supports automatic registration as part of a Continuous Deployment / Integration (CD) pipeline via `serverless deploy` for AWS provider
