@@ -13,7 +13,7 @@ Read more about the initial design [here](./design.md)
 ## Supported serverless-discovery-sdk libraries
 The Serverless Discovery SDK is designed to be language agnostic and currently has support for the following languages.
 Please contact us with suggestions for things you would like to see added to this list, or contribute a library for a new language directly.
-* [Typescrpt/Javascript](https://github.com/adastradev/serverless-discovery-sdk-js)
+* [Typescript/Javascript](https://github.com/adastradev/serverless-discovery-sdk-js)
 * [Python](https://github.com/adastradev/serverless-discovery-sdk-python)
 
 ## Supporting Tools
