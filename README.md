@@ -5,7 +5,7 @@ This is the home page for the Discovery Framework for a serverless architecture.
 
 ![](./design/ServiceDiscovery.png)
 
-Read more about the initial design [here](./design.md)
+Read more about the initial design [here](./design/design.md)
 
 ## Supported micro-service implementations
 * [AWS - serverless-discovery-service-aws](https://github.com/adastradev/serverless-discovery-service-aws)
